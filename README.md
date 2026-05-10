@@ -10,9 +10,9 @@
 
 | Hardware Prototype | Classroom Model |
 |---|---|
-| images/hardware_setup.jpeg | images/classroom_model.jpeg
+| ![Hardware](hardware_setup.jpeg) | ![Classroom](classroom_model.jpeg) 
 
-> 📹 **[Watch Full Demo Video](#)** ←
+> 📹 **[Watch Full Demo Video]([#](https://www.facebook.com/reel/2201115857309031))** ←
 
 ---
 
